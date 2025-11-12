@@ -15,10 +15,12 @@ We bound SSML (rate/pitch/break) and add a minimal accountability prompt to pres
 
 ## Quickstart
 
-```bash
-# create a fresh env (Conda/Mamba)
-conda env create -f code/analysis/environment.yml
-conda activate voice-agency
+## Quickstart
+
+1) With Conda (recommended):  
+   ```bash
+   bash code/analysis/run_all.sh
+
 
 # run everything (creates outputs in results/)
 bash code/analysis/run_all.sh
