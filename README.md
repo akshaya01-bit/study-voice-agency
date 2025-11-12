@@ -1,4 +1,5 @@
 # Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency
+[![OSF Registration](https://img.shields.io/badge/OSF-753gd-brightgreen)](https://osf.io/753gd)
 [![DOI](https://zenodo.org/badge/1095176381.svg)](https://doi.org/10.5281/zenodo.17593594)
 **What is this?** Research brief + open materials for a voice-first IVR study.
 We test Sequencing (system-first vs human-first) × Accountability (“Claim/Modify”)
