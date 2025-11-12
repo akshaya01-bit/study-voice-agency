@@ -1,0 +1,7 @@
+participant_id,condition_seq,condition_acc,deference_score,voice_score,time_seconds
+P001,system-first,claim,0.72,0.44,128
+P002,system-first,modify,0.61,0.53,121
+P003,human-first,claim,0.48,0.63,114
+P004,human-first,modify,0.42,0.69,109
+P005,system-first,claim,0.70,0.45,131
+P006,human-first,modify,0.40,0.70,105
