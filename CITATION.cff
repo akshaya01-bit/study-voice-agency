@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 title: "Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency (artifact bundle)"
-message: "If you use this repository, please cite it as below."
-type: software
+message: "If you use this, please cite it as below."
+type: dataset
 authors:
-  - family-names: "Jayasankar"
-    given-names: "Akshaya"
-repository-code: "https://github.com/<your-username>/study-voice-agency"
+  - family-names: Jayasankar
+    given-names: Akshaya
+year: 2025
+doi: 10.5281/zenodo.17593594
+url: https://doi.org/10.5281/zenodo.17593594
 license: MIT
-keywords: [voice UI, SSML, accountability, deference, agency, IVR]
-doi: "10.5281/zenodo.17593595"   # update after you mint the DOI
