@@ -1,0 +1,20 @@
+name: study-voice-agency
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  # Core scientific stack (safe, tiny, commonly available)
+  - numpy
+  - pandas
+  # CLI helpers (optional but handy)
+  - click
+  # Lint/tests (optional)
+  - black
+  - pytest
+  # --- pip-only packages, if any, go under this key:
+  - pip:
+      # (keep this section even if empty; add pip-only libs later)
+      # - somepackage==1.2.3
+      - none
