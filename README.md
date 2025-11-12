@@ -1,6 +1,10 @@
 # Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency
 [![OSF Registration](https://img.shields.io/badge/OSF-753gd-brightgreen)](https://osf.io/753gd)
 [![DOI](https://zenodo.org/badge/1095176381.svg)](https://doi.org/10.5281/zenodo.17593594)
+
+**Preregistration:** https://osf.io/753gd  
+**Artifacts (Zenodo):** https://doi.org/10.5281/zenodo.17593594
+
 **What is this?** Research brief + open materials for a voice-first IVR study.
 We test Sequencing (system-first vs human-first) × Accountability (“Claim/Modify”)
 and track effects on deference, voice, and time.
@@ -24,6 +28,6 @@ We bound SSML (rate/pitch/break) and add a minimal accountability prompt to pres
 - Code: MIT (see `LICENSE`).  
 - Text & figures in this repo (e.g., `docs/brief.pdf`): **CC BY 4.0** (attribution required).
 
-## Status
-- Prereg (OSF): **TBD**
-- DOI (Zenodo): **TBD**
+## How to cite
+Akshaya Jayasankar (2025). Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency (artifact bundle). Zenodo. https://doi.org/10.5281/zenodo.17593594
+
