@@ -61,7 +61,7 @@ Akshaya Jayasankar (2025). Counter-Bias by Design: Voice Choice-Architecture Lev
 Questions, feedback, or collaboration ideas?
 
 - **Open an issue**: https://github.com/akshaya01-bit/study-voice-agency/issues
-- **Email**: akshaya.jayasankar [at] example [dot] com  <!-- replace with your real email -->
+- **Email**: akshayajayasankar01@gmail.com
 - **OSF prereg link**: https://osf.io/753gd/
 - **Artifact DOI (Zenodo)**: https://doi.org/10.5281/zenodo.17593594
 
