@@ -1,7 +1,6 @@
 # code/analysis/demo_vad.py
 import sys
 from algorithms.vad import run_endpoint
-
 def main():
     if len(sys.argv) < 2:
         print("Usage: python code/analysis/demo_vad.py path/to/mono16.wav")
