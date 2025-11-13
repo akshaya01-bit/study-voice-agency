@@ -33,6 +33,9 @@ bash code/analysis/run_all.sh
 - 🔁 Repro: `RUN.md`
 - 🔒 Privacy: `PRIVACY.md`
 - 📜 How to cite: `CITATION.cff` (DOI appears after we mint it with Zenodo)
+- - Algorithms (prosody / VAD): `code/analysis/algorithms/`
+- Demos: `code/analysis/demo_ssml.py`, `code/analysis/demo_vad.py`
+
 
 data/
   synthetic/
