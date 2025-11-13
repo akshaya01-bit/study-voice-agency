@@ -1,5 +1,7 @@
 # Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency
 
+[![Release](https://img.shields.io/github/v/release/akshaya01-bit/study-voice-agency?include_prereleases&label=release)](https://github.com/akshaya01-bit/study-voice-agency/releases/latest)
+[![OSF](https://img.shields.io/badge/OSF-753gd-brightgreen)](https://osf.io/753gd)
 [![OSF Registration](https://img.shields.io/badge/OSF-753gd-brightgreen)](https://osf.io/753gd)
 [![DOI](https://zenodo.org/badge/1095176381.svg)](https://doi.org/10.5281/zenodo.17593594)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
@@ -35,6 +37,8 @@ bash code/analysis/run_all.sh
 - 📜 How to cite: `CITATION.cff` (DOI appears after we mint it with Zenodo)
 - - Algorithms (prosody / VAD): `code/analysis/algorithms/`
 - Demos: `code/analysis/demo_ssml.py`, `code/analysis/demo_vad.py`
+- - GitHub release (v0.1.2): https://github.com/akshaya01-bit/study-voice-agency/releases/tag/v0.1.2
+
 
 
 data/
@@ -57,7 +61,10 @@ docs/
 - Text & figures in this repo (e.g., `docs/brief.pdf`): **CC BY 4.0** (attribution required).
 
 ## How to cite
-Akshaya Jayasankar (2025). Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency (artifact bundle). Zenodo. https://doi.org/10.5281/zenodo.17593594
+**Cite the artifact bundle (Zenodo DOI):**
+
+Jayasankar, A. (2025). *Counter-Bias by Design: Voice Choice-Architecture Levers that Preserve Agency (artifact bundle)* (v0.1.2). Zenodo. https://doi.org/10.5281/zenodo.17593594
+
 
 ## Contact
 
